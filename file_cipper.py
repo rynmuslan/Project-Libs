@@ -1,4 +1,4 @@
-CHAR = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz+/="
+CHAR = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%^&*()_+{}|:<>?=-[]\;',./`~"
 
 def read(file):
     with open(file, 'r') as file:
